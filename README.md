@@ -4,6 +4,18 @@ FlowState is an interactive productivity and burnout analytics dashboard develop
 
 ---
 
+## Live Demo
+
+https://flowstategit-c6zxpfwxhskntrusx5guhc.streamlit.app/
+
+---
+
+## GitHub Repository
+
+https://github.com/Shobitaramana09/FlowState
+
+---
+
 ## Features
 
 - Burn Rate Distribution Analysis
